@@ -113,7 +113,7 @@ oc --no-verify
 is translated to :
 
 ```sh
-git commit -m "${generatedMessage}" --no-verify
+git commit -m "${generatedMessage}" --no-veri fy
 ```
 
 ### Ignore files
